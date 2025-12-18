@@ -1,4 +1,4 @@
-zx27572127kma@gmail.comjquery.mentionsInput
+y.mentionsInputCMD
 =================
 
 To get started -- checkout http://podio.github.com/jquery-mentions-input
